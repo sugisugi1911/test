@@ -23,7 +23,7 @@ public final class Main extends JavaPlugin implements Listener {
 
         String mailad = "hiroaki.sugiyama11@gmail.com";
     }
-    /**コメントですffffl:::
+    /**コメントですffffl:::a
     /**
      * プレイヤーがスニークを開始/終了する際に起動されるイベントハンドラ。
      *
